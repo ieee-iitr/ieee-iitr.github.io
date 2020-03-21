@@ -1,11 +1,11 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: IEEE Student Chapter IITR
+tagline: Enter tagline here
+email: ieee-sc@iitr.ac.in
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  IEEE SC IITR description here
+baseurl: ""
+url: "https://ieee-iitr.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
@@ -21,7 +21,7 @@ disqus:
   shortname: csrhymes
 
 
-plugins:
+gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed

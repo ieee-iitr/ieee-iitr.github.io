@@ -1,4 +1,4 @@
-- name: Pages
+- name: Resources
   link: /#
   dropdown:
     - name: Page With Sidebar
