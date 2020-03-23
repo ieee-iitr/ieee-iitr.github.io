@@ -1,11 +1,11 @@
 style: is-light
 items:
   - title: Lectures
-    subtitle: Some text goes here
+    #subtitle: 
     icon: fa-chalkboard-teacher
   - title: Project Support
-    subtitle: Other text goes here
+    #subtitle: 
     icon: fa-flask
   - title: Tutorials
-    subtitle: Rest of the text
+    #subtitle: Rest of the text
     icon: fas fa-book

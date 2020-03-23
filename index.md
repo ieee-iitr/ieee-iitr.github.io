@@ -1,6 +1,6 @@
 ---
 title: IEEE Student Chapter, IIT Roorkee
-subtitle: sub-title here
+#subtitle: sub-title here
 layout: page
 callouts: home_callouts
 show_sidebar: true
@@ -18,3 +18,20 @@ IEEE Student Chapter IIT Roorkee believes in these values. We are an enthusiasti
 
 # Resources
 1. [Vacation Resources]({{ site.url }}/resources-jan-2020)
+
+# Members
+We are happy to answer your questions and help you!
+
+<!--
+NOTE: Use following HTML code to insert corresponding social media icon
+1, Messenger: <a href="https://m.me/suyash.mahar"><i class="fab fa-facebook-messenger"></i></a>
+1, Twitter: <a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
+1, Messenger: <a href="mailto:suyash12mahar@outlook.com"><i class="far fa-envelope"></i></a>
+--> 
+
+* Suyash Mahar \| 
+		<a href="https://m.me/suyash.mahar"><i class="fab fa-facebook-messenger"></i></a>
+		<a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
+		<a href="mailto:suyash12mahar@outlook.com"><i class="far fa-envelope"></i></a>
+
+ 
