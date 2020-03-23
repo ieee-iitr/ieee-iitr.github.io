@@ -1,8 +1,9 @@
 ---
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
 layout: page
-show_sidebar: true
+title: Vacation Resources
+subtitle: Make your vacations worth it!
+show_sidebar: false
+toc: true
 ---
 
 ## Hello Juniors!
@@ -13,59 +14,61 @@ Since this is the first big vacation, you should spend this time productively.
 
 Apologies on being late, but here are some suggestions we thought to be useful:
 
-# Fun and enjoyment
+## Fun and enjoyment
 The first and foremost objective of any vacation is fun. At first glance it might not seem so, but quarantine and fun can go hand in hand! Binge your favorite TV shows, movies, YouTube channels, workout in your home, video-call your relatives, or try your culinary skills. Observe good personal hygiene and practice social distancing.
 
-# Academia
+## Academia
 Starting the courses of the next semester is a good idea. The courses are interesting and some of them (or at least their basics) can easily be understood, by reading the books of the respective course. However, we would strictly recommend that you devote your time to learning something new as you may not get time to learn new things during the semester.
 
 Additionally, you can learn from online courses which can be found on these websites:
 
-[EDX](https://www.edx.org/)
+1. [EDX](https://www.edx.org/)
+2. [Coursera](https://www.coursera.org/)
+3. [MIT OpenCourseWare](http://ocw.mit.edu/)
+4. [Udacity](https://in.udacity.com/)
+5. [Udemy](https://www.udemy.com/courses/teaching-and-academics/engineering/)
 
-[Coursera](https://www.coursera.org/)
-
-[MIT OpenCourseWare](http://ocw.mit.edu/)
-
-[Udacity](https://in.udacity.com/)
-
-[Udemy](https://www.udemy.com/courses/teaching-and-academics/engineering/)
-
-Universities like MIT offer free online courses on a variety of subjects. You can access these courses [here](http://ocw.mit.edu)
+Universities like MIT offer free online courses on a variety of subjects. You can access these courses [here](http://ocw.mit.edu).
 
 You must try something that you will not learn in your courses. We would recommend to go for courses from the above-mentioned sites, choose one which does not have many prerequisites and complete it by watching lectures according to your pace, say 1-2 at a day. You can try your hand on courses of basic sciences, i.e. either physics or maths or something completely different, like Web development and Designing.
 
 Let's dig into the content now. 
 
-For basic knowledge of **circuits and electronics** you can try :
+### Basics of Circuits and Electronics
+
+For basic knowledge of circuits and electronics you can try :
 
 MIT 6.002 Circuits & Electronics 
 
-[https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x).
+1. [MITx 6.002.1x Circuits and Electronics 1: Basic Circuit Analysis \| edX](https://www.edx.org/course/circuits-electronics-1-basic-circuit-mitx-6-002-1x).
 
-or [https://www.youtube.com/watch?v=AfQxyVuLeCs&list=PL9F74AFA03AA06 A11](https://www.youtube.com/watch?v=AfQxyVuLeCs&list=PL9F74AFA03AA06)
+2. [MIT 6.002 Circuits and Electronics, Spring 2007 \| Youtube](https://www.youtube.com/watch?v=AfQxyVuLeCs&list=PL9F74AFA03AA06)
 
 It will give you an idea of why we study what we study. This is a must-do.
 
+### Digital Logic Design
+
 For those of you who enjoyed the **Digital Logic Design** course this semester,
 
-*  Basic:<https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm>
+* Basic: [Digital Electronics - NESO Academy \| Youtube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 
 This video series covers the very basics of digital electronics and seeks to develop the basics for combinational and sequential electronics.This series is the starting point in the world of digital electronics.
 
-*  Medium:<https://www.youtube.com/playlist?list=PL803563859BF7ED8C>
+*  Medium: [Electronics - Digital Circuits and Systems, NPTEL \| YouTube](https://www.youtube.com/playlist?list=PL803563859BF7ED8C)
 
 This video series is the second part of the digital electronics series,it covers the combinational and sequential circuit design and also delves into the designing of systems to solve the real world problems.
 
-*  Advanced:Prof. S. Srinivasan VLSI Design, <https://www.youtube.com/playlist?list=PL62D1342C44993F23>
+*  Advanced: [VLSI Design by Prof S.Srinivasan, NPTEL \| YouTube](https://www.youtube.com/playlist?list=PL62D1342C44993F23)
 
 This video series is the third part of the digital electronics series,it covers System design using various tools available to us and also try to design some systems.The series also covers the basics of FPGA prototyping and circuit implementation.
 
-*  Advanced:Static Timing Analysis: <http://www.vlsi-expert.com/2011/03/static-timing-analysis-sta-basic-timing.html?m=1&fbclid=IwAR1eO6u-_OOUsitdGgVpVcIXiRwcA-TCqp19199la2kX6WrFHjqV4eqwPOE>
+*  Advanced: [Static Timing Analysis](http://www.vlsi-expert.com/2011/03/static-timing-analysis-sta-basic-timing.html?m=1&fbclid=IwAR1eO6u-_OOUsitdGgVpVcIXiRwcA-TCqp19199la2kX6WrFHjqV4eqwPO)
 
 This document deals with static time analysis of a system.Static timing analysis is a method of validating the timing performance of a design by checking all possible paths for timing violations under worst-case conditions.
 
-**Semiconductor Devices**: This course will be taught to you in the 3rd semester. It is advisable to go through the following material before coming back from the vacations.
+### Semiconductor Devices
+
+This course will be taught to you in the 3rd semester. It is advisable to go through the following material before coming back from the vacations.
 
 * Basic: <https://www.youtube.com/playlist?list=PLQms29D1RqeKGBEW8La2a7YuN5_4pSV4k>
 
@@ -75,23 +78,23 @@ This document deals with static time analysis of a system.Static timing analysis
 
 * FinFETs : <https://www.youtube.com/playlist?list=PLpIaPbuZ0EL-38IJxB8pK7uP_Is6UIJ_D>
 
-**Analog**
+### Analog
 
-* Analog circuits by Prof. Nagendra Krishnapura  <https://nptel.ac.in/courses/108106084/>
+* [Analog circuits by Prof. Nagendra Krishnapura](https://nptel.ac.in/courses/108106084/)
 
-* Analog IC by Prof. Nagendra Krishnapura  <https://nptel.ac.in/courses/117106030/>
+* [Analog IC by Prof. Nagendra Krishnapura](https://nptel.ac.in/courses/117106030/)
 
 *DO NOT WATCH ANALOG IC BEFORE WATCHING ANALOG CIRCUITS*
 
-For further resources - <https://docs.google.com/document/d/1EO-Wq8x6-obeFNYBiQqleCescIg3sCjA4w1Ar8NTgtw/edit?usp=sharing>
+For further resources [this Google Doc](https://docs.google.com/document/d/1EO-Wq8x6-obeFNYBiQqleCescIg3sCjA4w1Ar8NTgtw/edit?usp=sharing)
 
-**Lt Spice**:
+### Lt Spice
 
 For Those of you who are interested in circuit design and simulation you can check out Lt Spice,it is one of the open source tools we use to design,analyse and test integrated circuits is Lt spice.It provides a plethora of different analysis utilities like transient, noise, AC, DC, DC transfer function, DC operating point and fourier analysis along with the basic simulation of the system.You can install it from <https://ltspice-iv.en.lo4d.com/windows>.In order to use Lt spice to its full extent,you can check out the link given below to see various articles on how to use specific features of Lt spice.
 
 [link](https://www.analog.com/en/search.html?q=*&Filters=resource_type_l2_fac_s:948bcad75dda46938741bb491d391102_c1db6dd505a94fa09f7826c8b66a2bbb%7Cresource_type_fac_s:948bcad75dda46938741bb491d391102%7Ctools_n_models_l2_fac_sm:f92282719b32453a838ff5891f259f69_38bcc33c18ad463299d8ef39dcc09f6b%7Ctools_n_models_fac_s:f92282719b32453a838ff5891f259f69&Order=newest#)
 
-**Software Development**:
+### Software Development
 
 * HTML, CSS ( tizag.com / w3schools)
 
@@ -99,13 +102,13 @@ For Those of you who are interested in circuit design and simulation you can che
 
 * [How to become a web developer](https://medium.com/@rounakbanik/teach-yourself-programming-and-web-development-part-1-513cab4b09af)
 
-**Competitive Programming**
+### Competitive Programming
 
 This is the best time to learn C/C++, as it will come in handy in future courses and also in competitive programming. After learning Java, it will not be too tough.
 
 You can solve problems on SPOJ, Codechef, Project Euler, Erdos.
 
-**Design**
+### Design
 
 * Behance, Dribbble, EyeOnDesign - for inspiration and ideas.
 
@@ -119,7 +122,7 @@ You can solve problems on SPOJ, Codechef, Project Euler, Erdos.
 
 * For fresh updates/insights: [updates-insights](https://trends.uxdesign.cc/?fbclid=IwAR1rx6o46-oGWZgaKWXFEg0Bz6sZ3OIJspv59Xm_7vCfCIDPxffVHphcxUE)
 
-**Computer Architecture/Verilog**:
+### Computer Architecture/Verilog
 
 As this course will also be taught to you in the 3rd semester, you are advised to go through the basics during the vacations.
 
@@ -127,7 +130,7 @@ As this course will also be taught to you in the 3rd semester, you are advised t
 
 * Computer Architecture Resources: <https://drive.google.com/file/d/1nXgDmFX06UoLHcQpDrCR1UyP5iMJiKye/view?usp=sharing>
 
-**Machine Learning/Deep Learning**
+### Machine Learning/Deep Learning
 
 * Andrew Ng: <https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599>
 
@@ -139,39 +142,32 @@ As this course will also be taught to you in the 3rd semester, you are advised t
 
 * MIT 6S.191: <http://introtodeeplearning.com/> (Boot Camp course, covers almost all applications)
 
-**Physics**
+### Physics
 
 * Prof. Leonard Susskind: [Susskind Lectures on Youtube](https://www.youtube.com/watch?v=pyX8kQ-JzHI&list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8)
-
-Lectures from Stanford on QM, Stat Mech, Cosmology, General Relativity, String Theory, Modern Physics etc
-
+* Lectures from Stanford on QM, Stat Mech, Cosmology, General Relativity, String Theory, Modern Physics etc
 * Feynman Lectures
-
 * Quantum Computing: <https://github.com/gate42qc/Guide-to-QC-and-QI#NV-centers>
-
 * Coding Theory: <https://www.youtube.com/playlist?list=PL5002EB7306694E7D>
 
 You can also try reading research papers and blogs.
 
-[Arxiv](http://arxiv.org/)
-
-[Reddit Ask Science](https://www.reddit.com/r/askscience)
-
-[Physics Stack Exchange](http://physics.stackexchange.com/)
-
-[Google Scholar](https://scholar.google.co.in/)
+1. [Arxiv](http://arxiv.org/)
+2. [Reddit Ask Science](https://www.reddit.com/r/askscience)
+3. [Physics Stack Exchange](http://physics.stackexchange.com/)
+4. [Google Scholar](https://scholar.google.co.in/)
 
 Your IITR email and the LAN provide access to IEEE and other journals where you can find research publications.
 
-**Networking** : LinkedIn
+### Networking
 
-**Math**
+LinkedIn
 
-* Online Courses
+### Math
 
-[Better Explained](http://betterexplained.com)
-
-[Division by zero](http://divisbyzero.com/)
+1. Online Courses
+2. [Better Explained](http://betterexplained.com)
+3. [Division by zero](http://divisbyzero.com/)
 
 Trying  small electronic circuits, e.g. Implement a basic logic gate on a breadboard, Using [555 timer](https://www.electronicsforu.com/resources/learn-electronics/555-timer-working-specifications) for making buzzers etc.
 
@@ -179,87 +175,64 @@ Trying  small electronic circuits, e.g. Implement a basic logic gate on a breadb
 
 * A very nice website related to making products out of your project idea is [Predictable designs](https://predictabledesigns.com/). You can subscribe to get interesting articles.
 
-# Non-Academia
+## Non-Academia
 
 Besides learning academically, you can try learning something else also like driving, or any other fun sport, say swimming or skating. Basically, do whatever you like. Read novels and blogs. You can even write your own blogs on Medium by making your account on it.
 
 You can try some courses offered by the Department of Humanities too, like: **Public Speaking** (Resource: [Coursera Course](https://www.coursera.org/learn/public-speaking/)) and **Communication Skills** (Resource: [Coursera Course](https://www.coursera.org/learn/wharton-communication-skills)). Don't hesitate, you need to start somewhere! :D
 
-**Read**
+### Reading
 
 Books can show you new worlds (real and imagined) and speak with voices you may not encounter otherwise. College marks *(sadly)* the end of childhood and the start of an independent existence. Therefore it is imperative that you attempt to observe and understand the world around you. Push the limits of your comfort and use this time to read authors and subjects that you may not otherwise. Easy reading includes Ruskin Bond, Neil Gaiman, Agatha Christie, etc. For deeper reading, a theme-wise list of suggestions is provided below. This is of course not the best or exhaustive, but it is a start.
 
-**Political Theory**
+#### Political Theory
 
-The Three Languages of Politics - Arnold Kling
-
-Prisoners of Geography - Tim Marshall
-
-Sapiens - Yuval Noah Harari
-
-The Clash of Civilisations
+1. The Three Languages of Politics - Arnold Kling
+2. Prisoners of Geography - Tim Marshall
+3. Sapiens - Yuval Noah Harari
+4. The Clash of Civilisations
 
 
-**Continental Philosophy**
+#### Continental Philosophy
 
-Man's Search for Meaning - Viktor Frankl
+1. Man's Search for Meaning - Viktor Frankl
+2. The Stranger - Albert Camus
 
-The Stranger - Albert Camus
+#### Feminism
 
-**Feminism**
+1. A Room of One's Own - Virginia Woolf
+2. Little Women - Louisa May Alcott
 
-A Room of One's Own - Virginia Woolf
+#### Economics
 
-Little Women - Louisa May Alcott
+1. Economics in One Lesson - Henry Hazlitt
+2. Freakonomics - Steven Dubner & Steven Levitt
 
-**Economics**
+#### Satire
 
-Economics in One Lesson - Henry Hazlitt
+1. Lord of The Flies - William Golding
+2. 1984 - George Orwell
 
-Freakonomics - Steven Dubner & Steven Levitt
+#### Random Cool Stuff
 
-Satire
+1. The Rusty Series - Ruskin Bond
+2. White Nights - Fyodor Dostoevsky
+3. The Kingkiller Chronicles - Patrick Rothfuss
+4. Dune - Frank Herbert
 
-Lord of The Flies - William Golding
+#### Miscellaneous
 
-1984 - George Orwell
-
-**Random Cool Stuff**
-
-The Rusty Series - Ruskin Bond
-
-White Nights - Fyodor Dostoevsky
-
-The Kingkiller Chronicles - Patrick Rothfuss
-
-Dune - Frank Herbert
-
-**Miscellaneous**
-
-Principles of Microeconomics (MIT) - <https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/>
-
-Crash Course Philosophy - <https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR>
-
-exurb1a - 
-
-<https://www.youtube.com/user/willunicycleforfood>
-
-Every Frame a Painting - 
-
-<https://www.youtube.com/user/everyframeapainting>
-
-The Seen & The Unseen - 
-
-<https://seenunseen.in/>
-
-Nerdwriter1 -
-
-<https://www.youtube.com/user/Nerdwriter1>
-
-Six Centuries of English Poetry - <http://www.gutenberg.org/ebooks/30235>
+1. Principles of Microeconomics (MIT) - <https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/>
+2. Crash Course Philosophy - <https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR>
+3. exurb1a - <https://www.youtube.com/user/willunicycleforfood>
+4. Every Frame a Painting - <https://www.youtube.com/user/everyframeapainting>
+5. The Seen & The Unseen - <https://seenunseen.in/>
+6. Nerdwriter - <https://www.youtube.com/user/Nerdwriter1>
+7. Six Centuries of English Poetry - <http://www.gutenberg.org/ebooks/30235>
 
 **Bottom Line**: Just don't sit dumb. Do something, anything you like, and make your vacations productive and fruitful.
 
 Cheers.
 
-### P.S.: Contact us anytime you want, we will be happy to help!  :)
+**P.S.: Contact us anytime you want, we will be happy to help!  :)**
+
