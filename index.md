@@ -25,13 +25,113 @@ We are happy to answer your questions and help you!
 <!--
 NOTE: Use following HTML code to insert corresponding social media icon
 1, Messenger: <a href="https://m.me/suyash.mahar"><i class="fab fa-facebook-messenger"></i></a>
-1, Twitter: <a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
-1, Messenger: <a href="mailto:suyash12mahar@outlook.com"><i class="far fa-envelope"></i></a>
+2, Twitter: <a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
+3, Messenger: <a href="mailto:suyash12mahar@outlook.com"><i class="far fa-envelope"></i></a>
+
+For more, lookup fontawsome free icons
 --> 
 
-* Suyash Mahar \| 
-		<a href="https://m.me/suyash.mahar"><i class="fab fa-facebook-messenger"></i></a>
-		<a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
-		<a href="mailto:suyash12mahar@outlook.com"><i class="far fa-envelope"></i></a>
+<!-- TODO: Fix CSS -->
+<table class="members">
+	<tbody>
+		<tr>
+			<th>Keshav Tiwari</th>
+			<td>
+				<a href="https://www.messenger.com/t/keshavtiwari.1997"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Suyash Mahar</th>
+			<td>
+				<a href="https://m.me/suyash.mahar"><i class="fab fa-facebook-messenger"></i></a>
+				<a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
+				<a href="https://suyashmahar.com"><i class="fas fa-globe"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Sidharth Thomas</th>
+			<td>
+				<a href="https://www.messenger.com/t/aeon.cidd"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Kaustubh Nayyar</th>
+			<td>
+				<a href="https://www.messenger.com/t/kaustubh.nayyar"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Jaskirat Singh</th>
+			<td>
+				<a href="https://www.messenger.com/t/jaskirat.singh.906"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		
+		<tr>
+			<th>Chirag Garg</th>
+			<td>
+				<a href="https://www.messenger.com/t/100007377615127"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+
+		<tr>
+			<th>Tushar Bansal</th>
+			<td>
+		        <a href="https://www.messenger.com/t/tushar.bansal.39948"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
 
  
+		<tr>
+			<th>Aditya Doneria</th>
+			<td>
+		        <a href="https://www.messenger.com/t/nameisadtya"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+
+ 
+		<tr>
+			<th>Sameer Khan</th>
+			<td>
+		        <a href="https://www.messenger.com/t/sameerkhan15399"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+
+ 
+		<tr>
+			<th>Kshitij Srikant</th>
+			<td>
+		        <a href="https://www.messenger.com/t/kshitij.srikant"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+ 
+		<tr>
+			<th>Aditya Ramkumar</th>
+			<td>
+		        <a href="https://www.messenger.com/t/aditya.ramkumar.319"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+
+		<tr>
+			<th>Karma Dolkar</th>
+			<td>
+		        <a href="https://www.messenger.com/t/karma.dolkar.520"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+
+		<tr>
+			<th>Divyam Goel</th>
+			<td>
+		        <a href="https://www.messenger.com/t/divyam.goel.10"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+
+		<tr>
+			<th>Lakshay Madaan</th>
+			<td>
+		        <a href="https://www.messenger.com/t/lakshay.madaan.779"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+
+	</tbody>
+</table>
