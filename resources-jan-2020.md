@@ -130,10 +130,13 @@ As this course will also be taught to you in the 3rd semester, you are advised t
 
 * Computer Architecture Resources: <https://drive.google.com/file/d/1nXgDmFX06UoLHcQpDrCR1UyP5iMJiKye/view?usp=sharing>
 
+
 * Verilog: <https://www.youtube.com/watch?v=0age83XI8Z4
 https://www.youtube.com/watch?v=IREjtgG33hQ>
 
 ### Machine Learning/Deep Learning
+
+* Machine Learning - Google Tech Dev Guide: <https://techdevguide.withgoogle.com/paths/machine-learning/#>
 
 * Andrew Ng: <https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599>
 
@@ -161,6 +164,7 @@ You can also try reading research papers and blogs.
 4. [Google Scholar](https://scholar.google.co.in/)
 
 Your IITR email and the LAN provide access to IEEE and other journals where you can find research publications.
+In case you donot have access to IITR services then you can also use websites like [Sci-Hub](https://sci-hub.tw/) or [Library Genesis](https://libgen.lc/)
 
 ### Networking
 
@@ -225,6 +229,11 @@ Books can show you new worlds (real and imagined) and speak with voices you may 
 1. A Room of One's Own - Virginia Woolf
 2. Little Women - Louisa May Alcott
 
+#### History 
+1. The Ocean of Churn: How the Indian Ocean Shaped Human History - Sanjeev Sanyal
+2. Pakistan or the Partition of India - Dr. B.R. Ambedkar
+3. Chicago Addresses - Swami Vivekananda
+
 #### Economics
 
 1. Economics in One Lesson - Henry Hazlitt
@@ -254,6 +263,14 @@ Books can show you new worlds (real and imagined) and speak with voices you may 
 5. The Seen & The Unseen - <https://seenunseen.in/>
 6. Nerdwriter - <https://www.youtube.com/user/Nerdwriter1>
 7. Six Centuries of English Poetry - <http://www.gutenberg.org/ebooks/30235>
+8. In Conversation: A series of Interviews with people who have helped shaped India - <https://www.youtube.com/playlist?list=PLAJ6pLsaJ-Yq82ut-wc61A885BqR9Bn2u>
+9. Course on Indian Knowledge Systems - 
+<https://www.youtube.com/playlist?list=PLRfu94TCePTtVPR-kC4RpIGIwo7-ViCGP>
+10. Richard Feynman - The World from another point of view
+<https://www.youtube.com/watch?v=GNhlNSLQAFE&list=PLAJ6pLsaJ-YoyZdGMhEDz9hjxUvitf4U2&index=7&t=45s>
+11. The Tao of Physics - Fritjof Capra
+<https://www.youtube.com/watch?v=kBJFJVZMnlo&list=PLAJ6pLsaJ-YoyZdGMhEDz9hjxUvitf4U2&index=5&t=1527s>
+
 
 **Bottom Line**: Just don't sit dumb. Do something, anything you like, and make your vacations productive and fruitful.
 
