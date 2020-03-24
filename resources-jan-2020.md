@@ -256,20 +256,20 @@ Books can show you new worlds (real and imagined) and speak with voices you may 
 
 #### Miscellaneous
 
-1. Principles of Microeconomics (MIT) - <https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/>
-2. Crash Course Philosophy - <https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR>
-3. exurb1a - <https://www.youtube.com/user/willunicycleforfood>
-4. Every Frame a Painting - <https://www.youtube.com/user/everyframeapainting>
-5. The Seen & The Unseen - <https://seenunseen.in/>
-6. Nerdwriter - <https://www.youtube.com/user/Nerdwriter1>
-7. Six Centuries of English Poetry - <http://www.gutenberg.org/ebooks/30235>
-8. In Conversation: A series of Interviews with people who have helped shaped India - <https://www.youtube.com/playlist?list=PLAJ6pLsaJ-Yq82ut-wc61A885BqR9Bn2u>
-9. Course on Indian Knowledge Systems - 
-<https://www.youtube.com/playlist?list=PLRfu94TCePTtVPR-kC4RpIGIwo7-ViCGP>
-10. Richard Feynman - The World from another point of view
+1. In Conversation: A series of Interviews with people who have helped shaped India - <https://www.youtube.com/playlist?list=PLAJ6pLsaJ-Yq82ut-wc61A885BqR9Bn2u>
+2. Richard Feynman: The World from another point of view -
 <https://www.youtube.com/watch?v=GNhlNSLQAFE&list=PLAJ6pLsaJ-YoyZdGMhEDz9hjxUvitf4U2&index=7&t=45s>
-11. The Tao of Physics - Fritjof Capra
+3. The Tao of Physics: Fritjof Capra -
 <https://www.youtube.com/watch?v=kBJFJVZMnlo&list=PLAJ6pLsaJ-YoyZdGMhEDz9hjxUvitf4U2&index=5&t=1527s>
+4. Principles of Microeconomics (MIT) - <https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/>
+5. Crash Course Philosophy - <https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR>
+6. exurb1a - <https://www.youtube.com/user/willunicycleforfood>
+7. Every Frame a Painting - <https://www.youtube.com/user/everyframeapainting>
+8. The Seen & The Unseen - <https://seenunseen.in/>
+9. Nerdwriter - <https://www.youtube.com/user/Nerdwriter1>
+10. Six Centuries of English Poetry - <http://www.gutenberg.org/ebooks/30235>
+11. Course on Indian Knowledge Systems - 
+<https://www.youtube.com/playlist?list=PLRfu94TCePTtVPR-kC4RpIGIwo7-ViCGP> 
 
 
 **Bottom Line**: Just don't sit dumb. Do something, anything you like, and make your vacations productive and fruitful.
