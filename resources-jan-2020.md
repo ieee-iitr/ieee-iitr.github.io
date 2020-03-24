@@ -130,6 +130,9 @@ As this course will also be taught to you in the 3rd semester, you are advised t
 
 * Computer Architecture Resources: <https://drive.google.com/file/d/1nXgDmFX06UoLHcQpDrCR1UyP5iMJiKye/view?usp=sharing>
 
+* Verilog: <https://www.youtube.com/watch?v=0age83XI8Z4
+https://www.youtube.com/watch?v=IREjtgG33hQ>
+
 ### Machine Learning/Deep Learning
 
 * Andrew Ng: <https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599>
@@ -146,7 +149,7 @@ As this course will also be taught to you in the 3rd semester, you are advised t
 
 * Prof. Leonard Susskind: [Susskind Lectures on Youtube](https://www.youtube.com/watch?v=pyX8kQ-JzHI&list=PLQrxduI9Pds1fm91Dmn8x1lo-O_kpZGk8)
 * Lectures from Stanford on QM, Stat Mech, Cosmology, General Relativity, String Theory, Modern Physics etc
-* Feynman Lectures
+* Feynman Lectures: <https://www.feynmanlectures.caltech.edu/>
 * Quantum Computing: <https://github.com/gate42qc/Guide-to-QC-and-QI#NV-centers>
 * Coding Theory: <https://www.youtube.com/playlist?list=PL5002EB7306694E7D>
 
@@ -185,18 +188,37 @@ You can try some courses offered by the Department of Humanities too, like: **Pu
 
 Books can show you new worlds (real and imagined) and speak with voices you may not encounter otherwise. College marks *(sadly)* the end of childhood and the start of an independent existence. Therefore it is imperative that you attempt to observe and understand the world around you. Push the limits of your comfort and use this time to read authors and subjects that you may not otherwise. Easy reading includes Ruskin Bond, Neil Gaiman, Agatha Christie, etc. For deeper reading, a theme-wise list of suggestions is provided below. This is of course not the best or exhaustive, but it is a start.
 
+#### Some Easy Reads
+
+1. The Subtle Art of Not Giving a Fuck - Mark Manson
+2. Wings of Fire - Kalam
+3. The Story of My Experiments with Truth - M.K. Gandhi
+4. Murder on the Orient Express - Agatha Christie
+5. Wise and Otherwise - Sudha Murthy
+6. Start-up Nation - Dan Senor and Saul Singer
+7. Ananda Math (Hindi) - Bankim Chandra Chatterjee
+8. आज भी खरे हैं तालाब (Hindi) - Anupam Mishra
+9. The Pleasure of Finding Things Out - R. Feynman
+10. Tuesdays with Morrie - Mitch Albom
+11. Karma Yoga - Swami Vivekananda
+
 #### Political Theory
 
 1. The Three Languages of Politics - Arnold Kling
 2. Prisoners of Geography - Tim Marshall
 3. Sapiens - Yuval Noah Harari
-4. The Clash of Civilisations
+4. The Clash of Civilisations - Samuel P. Huntington
+5. Why Nations Fail - Daron Acemoglu and James A. Robinson
+6. Hind Swaraj - M.K. Gandhi
 
 
 #### Continental Philosophy
 
 1. Man's Search for Meaning - Viktor Frankl
 2. The Stranger - Albert Camus
+3. The Hindu view of life - Sarvepalli Radhakrishnan
+4. The Web of Indian Life - Sister Nivedita
+5. Integral Humanism - Deen Dayal Upadhyaya
 
 #### Feminism
 
@@ -207,6 +229,9 @@ Books can show you new worlds (real and imagined) and speak with voices you may 
 
 1. Economics in One Lesson - Henry Hazlitt
 2. Freakonomics - Steven Dubner & Steven Levitt
+3. When Corporations Rule the World - David Korten
+4. India Unincorporated - Ramachandran Vaidyanathan
+5. Small Is Beautiful - E. F. Schumacher
 
 #### Satire
 
