@@ -17,3 +17,24 @@ div.highlight {
     padding: 1.5rem;
     margin-bottom: 3rem;
 }
+
+table.members {
+    border-style: none;
+    height: 20px;
+}
+
+table.members tr {
+    height: 20px;
+}
+
+table.members tbody th {
+    padding: 3px;
+    width: 200px;
+    border-style:none;
+}
+
+table.members tbody td {
+    padding: 3px;
+    border-style:none;
+}
+

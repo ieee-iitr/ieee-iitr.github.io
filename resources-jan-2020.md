@@ -130,7 +130,9 @@ As this course will also be taught to you in the 3rd semester, you are advised t
 
 * Computer Architecture Resources: <https://drive.google.com/file/d/1nXgDmFX06UoLHcQpDrCR1UyP5iMJiKye/view?usp=sharing>
 
-* Verilog: <https://www.youtube.com/watch?v=0age83XI8Z4>
+
+* Verilog: <https://www.youtube.com/watch?v=0age83XI8Z4
+https://www.youtube.com/watch?v=IREjtgG33hQ>
 
 ### Machine Learning/Deep Learning
 
