@@ -33,5 +33,57 @@ NOTE: Use following HTML code to insert corresponding social media icon
 		<a href="https://m.me/suyash.mahar"><i class="fab fa-facebook-messenger"></i></a>
 		<a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
 		<a href="mailto:suyash12mahar@outlook.com"><i class="far fa-envelope"></i></a>
+* Keshav Tiwari \| 
+		<a href="https://www.messenger.com/t/keshavtiwari.1997"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+* Sidharth Thomas \| 
+		<a href="https://www.messenger.com/t/aeon.cidd"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+* Kaustubh Nayyar \| 
+		<a href="https://www.messenger.com/t/kaustubh.nayyar"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+* Jaskirat Singh \| 
+		<a href="https://www.messenger.com/t/jaskirat.singh.906"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
 
- 
+ * Chirag Garg \| 
+		<a href="https://www.messenger.com/t/100007377615127"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+* Tushar Bansal \| 
+		<a href="https://www.messenger.com/t/tushar.bansal.39948"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+
+* Aditya Doneria \| 
+		<a href="https://www.messenger.com/t/nameisadtya"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+
+* Sameer Khan  \| 
+		<a href="https://www.messenger.com/t/sameerkhan15399"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+
+* Kshitij Srikant \| 
+		<a href="https://www.messenger.com/t/kshitij.srikant"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+
+* Aditya Ramkumar \| 
+		<a href="https://www.messenger.com/t/aditya.ramkumar.319"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+* Karma Dolkar \| 
+		<a href="https://www.messenger.com/t/karma.dolkar.520"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
+
+* Lakshay Madaan \| 
+		<a href="https://www.messenger.com/t/lakshay.madaan.779"><i class="fab fa-facebook-messenger"></i></a>
+		<a href=""><i class="fab fa-twitter"></i></a>
+		<a href=""><i class="far fa-envelope"></i></a>
