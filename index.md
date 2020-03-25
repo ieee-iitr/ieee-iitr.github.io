@@ -98,6 +98,12 @@ For more, lookup fontawsome free icons
 			</td>
 		</tr>
 		<tr>
+			<th>Bhaskar Garg</th>
+			<td>
+		        <a href="https://www.messenger.com/t/bhaskar.garg.5264"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
 			<th>Kshitij Srikant</th>
 			<td>
 		        <a href="https://www.messenger.com/t/kshitij.srikant"><i class="fab fa-facebook-messenger"></i></a>
