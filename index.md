@@ -66,72 +66,78 @@ For more, lookup fontawsome free icons
 				<a href="https://www.messenger.com/t/jaskirat.singh.906"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-		
+		<tr>
+			<th>Khyati Kiyawat</th>
+			<td>
+				<a href="https://www.messenger.com/t/khyati.kiyawat"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
 		<tr>
 			<th>Chirag Garg</th>
 			<td>
 				<a href="https://www.messenger.com/t/100007377615127"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-
 		<tr>
 			<th>Tushar Bansal</th>
 			<td>
 		        <a href="https://www.messenger.com/t/tushar.bansal.39948"><i class="fab fa-facebook-messenger"></i></a>
+			<a href="https://twitter.com/05Tushar_Bansal"><i class="fab fa-twitter"></i></a>
 			</td>
 		</tr>
-
- 
 		<tr>
 			<th>Aditya Doneria</th>
 			<td>
 		        <a href="https://www.messenger.com/t/nameisadtya"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-
- 
 		<tr>
 			<th>Sameer Khan</th>
 			<td>
 		        <a href="https://www.messenger.com/t/sameerkhan15399"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-
- 
+		<tr>
+			<th>Bhaskar Garg</th>
+			<td>
+		        <a href="https://www.messenger.com/t/bhaskar.garg.5264"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
 		<tr>
 			<th>Kshitij Srikant</th>
 			<td>
 		        <a href="https://www.messenger.com/t/kshitij.srikant"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
- 
 		<tr>
 			<th>Aditya Ramkumar</th>
 			<td>
 		        <a href="https://www.messenger.com/t/aditya.ramkumar.319"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-
 		<tr>
 			<th>Karma Dolkar</th>
 			<td>
 		        <a href="https://www.messenger.com/t/karma.dolkar.520"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-
 		<tr>
 			<th>Divyam Goel</th>
 			<td>
 		        <a href="https://www.messenger.com/t/divyam.goel.10"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-
 		<tr>
 			<th>Lakshay Madaan</th>
 			<td>
 		        <a href="https://www.messenger.com/t/lakshay.madaan.779"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
-
+		<tr>
+			<th>Shaleen Bansal</th>
+			<td>
+		        <a href="https://www.messenger.com/t/bansal.shaleen"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
 	</tbody>
 </table>
