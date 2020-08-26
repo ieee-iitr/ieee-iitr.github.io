@@ -1,8 +1,9 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog/
-- name: Products
-  link: /products/
-- name: Privacy Policy
-  link: /privacy-policy/
+- name: Contact Us
+  link: https://www.facebook.com/ieeeiitr/
+
+#- name: Products
+#  link: /products/
+#- name: Privacy Policy
+#  link: /privacy-policy/

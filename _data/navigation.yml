@@ -3,10 +3,12 @@
   dropdown:
     - name: Vacation Resources
       link: /resources-jan-2020/
+    - name: BTech ECE Resources
+      link: /ece-course-work/
 
 #- name: Products
 #  link: /products/
 #- name: Showcase
 #  link: /showcase/
-#- name: Blog
-#  link: /blog/
+- name: Blog
+  link: https://ieeeiitr.wordpress.com/
