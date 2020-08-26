@@ -1,11 +1,11 @@
 style: is-light
 items:
   - title: Lectures
-    #subtitle: 
+    subtitle: Lectures by reputed experts from both industry and academia
     icon: fa-chalkboard-teacher
   - title: Project Support
-    #subtitle: 
+    subtitle: Contact us if you want support in your projects
     icon: fa-flask
-  - title: Tutorials
-    #subtitle: Rest of the text
+  - title: Resources
+    subtitle: Find excellent Resources to explore various fields
     icon: fas fa-book
