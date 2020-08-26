@@ -18,6 +18,7 @@ IEEE Student Chapter IIT Roorkee believes in these values. We are an enthusiasti
 
 # Resources
 1. [Vacation Resources]({{ site.url }}/resources-jan-2020)
+2. [BTech ECE Compiled Resources]({{ site.url }}/ece-course-work)
 
 # Members
 We are happy to answer your questions and help you!
