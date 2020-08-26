@@ -79,7 +79,7 @@ For more, lookup fontawsome free icons
 			</td>
 		</tr>
 		<tr>
-			<th>Tushar Bansal</th>
+			<th>Tushar Bansal the great</th>
 			<td>
 		        <a href="https://www.messenger.com/t/tushar.bansal.39948"><i class="fab fa-facebook-messenger"></i></a>
 			<a href="https://twitter.com/05Tushar_Bansal"><i class="fab fa-twitter"></i></a>
