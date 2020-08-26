@@ -3,6 +3,8 @@
   dropdown:
     - name: Vacation Resources
       link: /resources-jan-2020/
+    - name: BTech ECE Resources
+      link: /ece-course-work.md/
 
 #- name: Products
 #  link: /products/
