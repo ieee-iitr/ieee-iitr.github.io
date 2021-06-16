@@ -36,69 +36,6 @@ For more, lookup fontawsome free icons
 <table class="members">
 	<tbody>
 		<tr>
-			<th>Keshav Tiwari</th>
-			<td>
-				<a href="https://www.messenger.com/t/keshavtiwari.1997"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Suyash Mahar</th>
-			<td>
-				<a href="https://m.me/suyash.mahar"><i class="fab fa-facebook-messenger"></i></a>
-				<a href="https://twitter.com/suyashmahar"><i class="fab fa-twitter"></i></a>
-				<a href="https://suyashmahar.com"><i class="fas fa-globe"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Sidharth Thomas</th>
-			<td>
-				<a href="https://www.messenger.com/t/aeon.cidd"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Kaustubh Nayyar</th>
-			<td>
-				<a href="https://www.messenger.com/t/kaustubh.nayyar"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Jaskirat Singh</th>
-			<td>
-				<a href="https://www.messenger.com/t/jaskirat.singh.906"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Khyati Kiyawat</th>
-			<td>
-				<a href="https://www.messenger.com/t/khyati.kiyawat"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Chirag Garg</th>
-			<td>
-				<a href="https://www.messenger.com/t/100007377615127"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Tushar Bansal</th>
-			<td>
-		        <a href="https://www.messenger.com/t/tushar.bansal.39948"><i class="fab fa-facebook-messenger"></i></a>
-			<a href="https://twitter.com/05Tushar_Bansal"><i class="fab fa-twitter"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Aditya Doneria</th>
-			<td>
-		        <a href="https://www.messenger.com/t/nameisadtya"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
-			<th>Sameer Khan</th>
-			<td>
-		        <a href="https://www.messenger.com/t/sameerkhan15399"><i class="fab fa-facebook-messenger"></i></a>
-			</td>
-		</tr>
-		<tr>
 			<th>Bhaskar Garg</th>
 			<td>
 		        <a href="https://www.messenger.com/t/bhaskar.garg.5264"><i class="fab fa-facebook-messenger"></i></a>
@@ -138,6 +75,54 @@ For more, lookup fontawsome free icons
 			<th>Shaleen Bansal</th>
 			<td>
 		        <a href="https://www.messenger.com/t/bansal.shaleen"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Tanmay Sarkar</th>
+			<td>
+		        <a href="https://www.messenger.com/t/ritwik.raaj.98"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Ritik Raj</th>
+			<td>
+		        <a href="https://www.messenger.com/t/ritwik.raaj.98"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Aditya Sharma</th>
+			<td>
+		        <a href="https://www.messenger.com/t/adi25.sharma"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Vivek Sharma</th>
+			<td>
+		        <a href="https://www.messenger.com/t/viveksharma.6354"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Anchit Proch</th>
+			<td>
+		        <a href="https://www.messenger.com/t/anchit.proch"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Darshita Bindal</th>
+			<td>
+		        <a href="https://www.messenger.com/t/ritwik.raaj.98"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Shivansh Bhatt</th>
+			<td>
+		        <a href="https://www.messenger.com/t/shivansh.bhat321"><i class="fab fa-facebook-messenger"></i></a>
+			</td>
+		</tr>
+		<tr>
+			<th>Vaishnavi Andhalkar</th>
+			<td>
+		        <a href="https://www.messenger.com/t/vaishnavi.andhalkar.94"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
 	</tbody>
