@@ -19,7 +19,7 @@ IEEE Student Chapter IIT Roorkee believes in these values. We are an enthusiasti
 # Resources
 1. [Vacation Resources]({{ site.url }}/resources-jan-2020)
 2. [BTech ECE Compiled Resources]({{ site.url }}/ece-course-work)
-
+2. [Talks, Discussions and Lectures]({{ site.url }}/lectures-by-ieee)
 # Members
 We are happy to answer your questions and help you!
 
@@ -80,7 +80,7 @@ For more, lookup fontawsome free icons
 		<tr>
 			<th>Tanmay Sarkar</th>
 			<td>
-		        <a href="https://www.messenger.com/t/ritwik.raaj.98"><i class="fab fa-facebook-messenger"></i></a>
+		        <a href="https://www.messenger.com/t/100027388206190"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
 		<tr>
@@ -110,7 +110,7 @@ For more, lookup fontawsome free icons
 		<tr>
 			<th>Darshita Bindal</th>
 			<td>
-		        <a href="https://www.messenger.com/t/ritwik.raaj.98"><i class="fab fa-facebook-messenger"></i></a>
+		        <a href="https://www.messenger.com/t/darshita.bindal.1"><i class="fab fa-facebook-messenger"></i></a>
 			</td>
 		</tr>
 		<tr>
